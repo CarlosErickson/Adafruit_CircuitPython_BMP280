@@ -1,10 +1,11 @@
 {
   "urls": [
     ["adafruit_bmp280.py", "github:CarlosErickson/Adafruit_CircuitPython_BMP280/adafruit_bmp280.py"],
-    ["requirements.txt", "github:CarlosErickson/Adafruit_CircuitPython_BMP280/requirements.txt"]
   ],
   "deps": [
-    ["collections-defaultdict", "latest"]
+    ["Adafruit-Blinka", "latest"],
+    ["adafruit-circuitpython-register", "latest"],
+    ["adafruit-circuitpython-busdevice", "latest"]
   ],
-  "version": "0.2"
+  "version": "0.3"
 }
