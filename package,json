@@ -1,0 +1,9 @@
+{
+  "urls": [
+    ["adafruit_bmp280.py", "github:CarlosErickson/Adafruit_CircuitPython_BMP280/blob/main/adafruit_bmp280.py"],
+  ],
+  "deps": [
+    ["collections-defaultdict", "latest"]
+  ],
+  "version": "0.1"
+}
